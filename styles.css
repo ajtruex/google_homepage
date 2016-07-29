@@ -1,0 +1,23 @@
+.logo img{
+	padding-top: 109px;
+	height: 92px;
+	width: 272px;
+}
+
+.center {
+    display: block;
+    text-align: -webkit-center;
+}
+
+.search-container{
+	margin: auto;
+	width: 500px;
+
+}
+
+.search-container .search-bar{
+	height: 38px;
+	width: 100%;
+	border: 1px solid gray;
+	margin-top: 50px;
+}
